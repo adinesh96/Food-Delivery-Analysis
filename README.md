@@ -1,3 +1,5 @@
+This repository includes the original dataset utilized, a jupyter notebook of python computations for analysis and a final business presentation.
+
 A food aggregator company, FoodHub, allows it’s customers to place food orders via an app that notifies
 the restaurant to prepare the food and a driver to pick up and deliver the food to the customer.
 FoodHub’s online portal has stored data of orders placed by it’s registered customers.
