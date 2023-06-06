@@ -1,4 +1,4 @@
-Tools Utilized: Jupyter Notebook, Python, EDA
+
 
 Context:
 A food aggregator company, FoodHub, allows it’s customers to place food orders via an app that notifies
@@ -16,4 +16,4 @@ Secondly, the important variables will be compared to each other in an extensive
 Lastly, Foodhub’s revenue is analyzed to understand how customer’s preferences in food
 are influencing their business.
 
-
+Tools Utilized: Jupyter Notebook, Python, EDA
