@@ -19,6 +19,7 @@ Lastly, Foodhub’s revenue is analyzed to understand how customer’s preferenc
 are influencing their business.
 
 **Concepts:** EDA
+
 **Tools Utilized:** Jupyter Notebook, Python
 
 
